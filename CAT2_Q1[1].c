@@ -1,4 +1,7 @@
-
+/*
+    AWILLY ROSE AKINYI
+    CT102/G/222723/24
+    */
 #include<stdio.h>
 
 int main(){
